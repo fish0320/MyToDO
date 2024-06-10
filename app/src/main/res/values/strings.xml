@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Done!</string>
+    <string name="today_name">TODAY</string>
+    <string name="daily_progress_header">今日进度</string>
+    <string name="daily_task_header">任务</string>
+    <string name="daily_todo_header">今日待办</string>
+    <string name="addtask_name">添加新任务</string>
+    <string name="addtask_name_head">任务名称</string>
+    <string name="addtask_content_head">任务内容</string>
+    <string name="addtask_start_head">开始时间</string>
+    <string name="btn_select">选择日期</string>
+    <string name="addtask_active_head">完成时间</string>
+    <string name="btn_add">新增任务</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_todo">打卡</string>
+    <string name="title_task">任务</string>
+    <string name="title_time">时间轴</string>
+</resources>
